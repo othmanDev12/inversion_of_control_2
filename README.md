@@ -10,5 +10,9 @@ this image below represent presentationSpringXml result:
 this image below represent presentation result:
 ![image](https://github.com/othmanDev12/inversion_of_control_2/assets/58038430/61bcc8bd-e49c-4066-b336-4492ab337258)
 
+this image below represent unit test of somme calcul func result:
+![image](https://github.com/othmanDev12/inversion_of_control_2/assets/58038430/bd8feda5-e1fa-4ec5-9882-cbcbeecec01a)
+
+
 
 
