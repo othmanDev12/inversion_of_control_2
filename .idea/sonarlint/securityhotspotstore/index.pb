@@ -28,3 +28,5 @@ U
 %src/main/java/pres/Presentation2.java,8/a/8ad155a337e6449c861318fc02597972eb5c6964
 d
 4src/main/java/pres/PrasentationSpringAnnotation.java,8/0/805a3e135912a251e1ed29abe6fd0514f2c9ddf9
+T
+$src/test/java/metier/CalculTest.java,a/e/aed40f7d9f8fff15329812daef457d34ea61c71f
